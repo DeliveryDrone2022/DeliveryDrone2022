@@ -1,0 +1,11 @@
+# Path IX
+![til](path9phase1.gif)
+![til](path9phase2.gif)
+![til](path9phase3.gif)
+![til](path9phase4.gif)
+![til](path9phase5.gif)
+![til](path9phase6.gif)
+![til](path9phase7.gif)
+![til](path9phase8.gif)
+![til](path9phase9.gif)
+![til](path9phase10.gif)
